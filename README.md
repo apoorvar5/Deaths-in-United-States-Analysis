@@ -7,17 +7,11 @@ This repository contains the code and analysis for a project focused on the caus
 
 ## Project Structure
 
-- **data/:** Contains the dataset used for the analysis (`causes_of_death_usa.csv`).
+- **data/:** Contains the dataset used for the analysis (`causes-of-death.csv`).
 
 - **src/:** The source code files.
 
-  - **clustering.ipynb:** Jupyter Notebook file containing the code for k-means clustering and silhouette score verification.
-
-  - **comparison_1999_2017.ipynb:** Jupyter Notebook file comparing causes of death between 1999 and 2017.
-
-  - **california_case_study.ipynb:** Jupyter Notebook file focusing on the leading causes of death in California for 1999 and 2017.
-
-  - **heatmap.ipynb:** Jupyter Notebook file creating a heatmap of the United States showing the number of deaths from 1999 to 2017.
+  - **Cause of Death in USA.ipynb:** Jupyter Notebook file containing the code for k-means clustering and silhouette score verification, comparing causes of death between 1999 and 2017, focusing on the leading causes of death in California for 1999 and 2017, a heatmap of the United States showing the number of deaths from 1999 to 2017.
 
 ## Clustering
 
