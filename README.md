@@ -49,4 +49,4 @@ The analysis uses the `causes_of_death_usa.csv` dataset, which is included in th
 
 This project provides valuable insights into the causes of death in the United States, offering both a broad overview and detailed analyses for specific states and years. Feel free to explore the Jupyter Notebooks for a deeper understanding of the findings.
 
-If you have any questions or suggestions, please open an issue or reach out to the project contributors. Contributions are welcome!
+If you have any questions or suggestions, please open an issue or reach out!
